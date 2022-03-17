@@ -1,0 +1,13 @@
+1- Download this folder from github : Code ---> Download ZIP
+2- Right Click and choose Extract Here
+3- Open the folder with Visual Studio Code
+4- Open terminal in Visual Studio Code
+5- Type in Terminal                      npm i
+6- After that Type in Terminal      npm run inMod
+7- Finally Type in Terminal          npm run dev
+
+
+
+                  Congratulations The App is Work 
+
+
